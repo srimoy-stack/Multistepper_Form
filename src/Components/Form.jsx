@@ -14,6 +14,7 @@ const Form = () => {
     conformPassword: "",
     nationality: "",
     others: "",
+ Address:""
   });
 
   const pageDisplay = () => {
